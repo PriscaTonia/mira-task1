@@ -1,0 +1,4 @@
+This is my progress so far:
+I created a new repository in my github account, and then in my command prompt, I created a new folder called 'gitFolder', I initialized an empty git repository in that foler using called mira-task1.
+Then I created a new file called README.md, added it and commited it. I added my remote origin link which is the link to the repository i created in my github account where my changes would be pushed to, and I pushed to the master branch. 
+This is just a text file I want to practice with, thanks.
